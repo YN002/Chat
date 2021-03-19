@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.right{
+	text-align: right;
+}
+#title{
+	text-align: center;
+}
+.config{
+	width: 600px;
+	margin: 30px auto;
+	padding: 20px;
+	border: 1px solid #555;
+	background-color: #37a4bf;
+}

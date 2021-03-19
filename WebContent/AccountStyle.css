@@ -1,0 +1,70 @@
+@charset "UTF-8";
+body,p,form,input{margin: 0}
+#form{
+	width: 400px;
+	margin: 30px auto;
+	padding: 20px;
+	border: 1px solid #555;
+}
+
+form p{
+	font-size: 14px;
+}
+
+.title{
+	text-align: center;
+}
+
+.loginid,.pass{
+	margin-bottom: 20px;
+}
+
+input[type="text"],input[type="password"]{
+	width: 300px;
+	padding: 4px;
+	font-size: 14px;
+}
+
+.submit{
+	text-align: right;
+}
+
+.button{
+	text-align: center;
+}
+
+
+ form p{
+  color: #077685;
+  font-weight: bold;
+  }
+
+.title{
+  font-family: Arial;
+  font-size: 30px;
+  color: #4eb4c2;
+  }
+
+#form{
+  border-radius: 6px;
+  box-shadow: 0px 1px 10px #488a9e;
+  border: solid #4eb4c2 1px;
+  background: #fafafa;
+  }
+
+ .submit input{
+  font-family: Arial;
+  color: #000000;
+  font-size: 16px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  text-decoration: none;
+  border-radius: 10px;
+  box-shadow: 0px 8px 6px #ffffff;
+  border: solid #f5fdff 4px;
+  }
+.submit input:hover{
+  background: #37a4bf;
+ }
